@@ -1,6 +1,6 @@
 ## Hi there :woman_technologist: 🧪
 
-I'm Manussa Ferreira, and I am studying Information Systems at Rural Federal University of Pernambuco (UFRPE).
+I'm Manussa Santos, and I am studying Information Systems at Rural Federal University of Pernambuco (UFRPE).
 
 - 🔭 I’m currently working on improving my Front End skills
 - 🧪 I’m currently learning about Quality Assurance
