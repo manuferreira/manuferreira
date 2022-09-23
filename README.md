@@ -1,4 +1,4 @@
-## Hi there :woman_technologist: 🧪
+## Hi :woman_technologist: 🧪
 
 I'm Manussa Santos, and I am studying Information Systems at Rural Federal University of Pernambuco (UFRPE).
 
